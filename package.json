@@ -17,7 +17,7 @@
     "react-dom": "^16.12.0",
     "react-hot-loader": "^4.12.18",
     "moment": "^2.24.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
